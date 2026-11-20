@@ -1,0 +1,1 @@
+![Docker CI Pipeline](https://github.com/tushaR1529/DOCKERPROJECT/actions/workflows/docker-ci.yml/badge.svg)
